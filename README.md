@@ -1,6 +1,6 @@
 # Mini Stacks Course by Sahil Aujla
 
-This is a mini Stacks course Written by [Sahil Aujla](https://twitter.com/SahilAujla15) to help you get up and running with the Stacks blockchain. 
+This is a mini [Stacks](https://www.stacks.co/) course Written by [Sahil Aujla](https://twitter.com/SahilAujla15) to help you get up and running with the Stacks blockchain. 
 
 ## What you will learn
 
