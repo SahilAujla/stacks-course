@@ -13,7 +13,7 @@ function HomepageHeader() {
     <div>
       <head>
           <title>Mini Stacks Course by Sahil Aujla</title>
-          <meta property="og:title" content="Mini Stacks Course by Sahil Aujla" />
+          <meta property="og:title" content="Stacks Course by Sahil Aujla" />
           <meta
             property="og:description"
             content="A mini course on the Stacks blockchain by Sahil Aujla to help you get up and running with the Stacks ecosystem."
@@ -23,7 +23,7 @@ function HomepageHeader() {
           <meta property="og:url" content="https://www.stacks-course.vercel.app/" />
           <meta property="twitter:card" content="summary_large_image" />
           <meta property="twitter:url" content="https://www.stacks-course.vercel.app/" />
-          <meta property="twitter:title" content="Mini Stacks Course by Sahil Aujla" />
+          <meta property="twitter:title" content="Stacks Course by Sahil Aujla" />
           <meta
             property="twitter:description"
             content="A mini course on the Stacks blockchain by Sahil Aujla to help you get up and running with the Stacks ecosystem."
