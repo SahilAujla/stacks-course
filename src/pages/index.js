@@ -30,7 +30,7 @@ function HomepageHeader() {
           />
           <meta
             property="twitter:image"
-            content="https://cdn.discordapp.com/attachments/947480890181812294/1028157725944840255/unknown.png"
+            content="https://user-images.githubusercontent.com/83442423/194687769-3e011f6f-2cb9-4aca-bb93-19bc03a30e61.jpeg"
           />
         </head>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
