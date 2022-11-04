@@ -12,4 +12,4 @@ This is a mini [Stacks](https://www.stacks.co/) course Written by [Sahil Aujla](
 6. Building a **calculator smart contract** using **Clarity** language and deploying it to the **Stacks** blockchain.
 7. Interacting with the deployed calculator smart contract.
 
-By the end of this track, you will have a good understanding of the Stacks ecosystem and will know the basics of smart contract development on Stacks using the Clarity language.
+By the end of this course, you will have a good understanding of the Stacks ecosystem and will know the basics of smart contract development on Stacks using the Clarity language.
